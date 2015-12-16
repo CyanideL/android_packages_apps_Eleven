@@ -16,25 +16,25 @@
 -->
 <resources>
     <!-- Material -->
-    <color name="primary">#ff263238</color>
-    <color name="primary_dark">#ff21272b</color>
-    <color name="primary_light">#78909C</color>
-    <color name="accent">#3f51b5</color>
+    <color name="primary">#ff000000</color>
+    <color name="primary_dark">#ff000000</color>
+    <color name="primary_light">#ff000000</color>
+    <color name="accent">#ff1976D2</color>
 
     <!-- light color -->
-    <color name="background_color">#ff1b1f23</color>
+    <color name="background_color">#ff000000</color>
 
     <!-- See through -->
     <color name="transparent">#00000000</color>
 
     <!-- Black -->
-    <color name="black">#212121</color>
+    <color name="black">#ff000000</color>
 
     <!-- White -->
     <color name="white">#ffffffff</color>
 
     <!-- Standard Text Color -->
-    <color name="default_text_color">#fafafa</color>
+    <color name="default_text_color">#ffffffff</color>
     <color name="default_text_color_light">#ff000000</color>
 
     <!-- Transparent black -->
@@ -44,13 +44,13 @@
     <color name="transparent_white">#ffcccccc</color>
 
     <!-- A light, Holo shade of blue -->
-    <color name="holo_blue_light">#ff33b5e5</color>
+    <color name="holo_blue_light">#ff1976D2</color>
 
     <!-- A light, transparent Holo shade of blue -->
-    <color name="holo_blue_light_transparent">#9933b5e5</color>
+    <color name="holo_blue_light_transparent">#ff1976D2</color>
 
     <!-- A light Holo shade of green -->
-    <color name="holo_green_light">#ff99cc00</color>
+    <color name="holo_green_light">#ff1976D2</color>
 
     <!-- A light Holo shade of red -->
     <color name="holo_red_light">#ffff4444</color>
@@ -65,35 +65,35 @@
     <color name="holo_orange_dark">#ffff8800</color>
 
     <!-- Color for the action bar -->
-    <color name="header_action_bar_color">#ff31353f</color>
+    <color name="header_action_bar_color">#ff000000</color>
     <color name="header_action_bar_text_color">#bfffffff</color>
     <color name="bottom_action_bar_text_color">@color/default_text_color</color>
 
     <!-- Background color used on some page headers -->
-    <color name="page_header_background">#ff009688</color>
+    <color name="page_header_background">#ff000000</color>
 
     <!-- Color for background for shadow on playlist page -->
-    <color name="header_shadow_color">#ea31353f</color>
+    <color name="header_shadow_color">#ff1976D2</color>
 
     <!-- Color for the pop up menu -->
-    <color name="menu_divider_color">#4ca19d9e</color>
+    <color name="menu_divider_color">#ff1976D2</color>
     <color name="menu_text_color">@color/white</color>
 
     <!-- List view related colors -->
-    <color name="smart_playlist_item_background">#a5009688</color>
-    <color name="list_item_background">#4ce4e9ed</color>
+    <color name="smart_playlist_item_background">#ff000000</color>
+    <color name="list_item_background">#ff000000</color>
     <color name="list_item_header_text_color">#ff3d4049</color>
     <color name="list_item_search_footer_text_color">#ff41a4f4</color>
     <color name="list_item_text_color">@color/default_text_color</color>
     <color name="list_item_text_color_light">@color/default_text_color</color>
-    <color name="list_item_divider_color">#4c231f20</color>
-    <color name="list_item_divider_color_light">#34ffffff</color>
+    <color name="list_item_divider_color">#ff1976D2</color>
+    <color name="list_item_divider_color_light">#ff1976D2</color>
     <color name="grid_list_item_text_color">#b3231f20</color>
 
     <!-- Top title page colors -->
-    <color name="tab_ripple_color">#ffffff</color>
-    <color name="tab_accent_color">#ffffff</color>
-    <color name="tab_selected_underline_color">#ffffff</color>
+    <color name="tab_ripple_color">#ff1976D2</color>
+    <color name="tab_accent_color">#ff1976D2</color>
+    <color name="tab_selected_underline_color">#ff1976D2</color>
 
     <!-- Search Colors -->
     <color name="search_hint_color">#4cffffff</color>
@@ -112,7 +112,7 @@
     <color name="now_playing_divider">#40ffffff</color>
 
     <!-- App widget colors -->
-    <color name="widget_divider">#373737</color>
+    <color name="widget_divider">#ff1976D2</color>
     <!-- 80% opacity white -->
     <color name="widget_text">#ccffffff</color>
 
@@ -147,5 +147,5 @@
     </array>
 
     <!-- Color for the visualizer bars -->
-    <color name="visualizer_fill_color">#bfffffff</color>
+    <color name="visualizer_fill_color">#ff1976D2</color>
 </resources>
